@@ -3,7 +3,7 @@
 A responsive e-commerce website for a fictional Colombian specialty coffee brand. Built as a team project for web development coursework.
 
 ## Live Demo
-[View Website](https://hills.ccsf.edu/~seckardt/cnit195/))
+[View Website](https://hills.ccsf.edu/~seckardt/cnit195/)
 
 ## Tech Stack
 
