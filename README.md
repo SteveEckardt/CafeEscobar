@@ -82,6 +82,6 @@ CafeEscobar/
 - Optimize images for faster load times
 - Add accessibility features (ARIA labels, keyboard navigation)
 
-## Contact
+## Author
 
 Steve Eckardt 
