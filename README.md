@@ -84,6 +84,6 @@ CafeEscobar/
 
 ## Contributors
 
-Guadalupe Arbeláez, Kar Ng, Steve Eckardt
-Web Development Capstone, City College of San Francisco
-January 2023-May 2023 
+Guadalupe Arbeláez, Kar Ng, Steve Eckardt  
+Web Development Capstone, City College of San Francisco  
+January 2023-May 2023   
